@@ -1,0 +1,1 @@
+# opensearch-otel-demo-app
